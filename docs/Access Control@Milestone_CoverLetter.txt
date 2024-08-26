@@ -1,0 +1,23 @@
+Thank you for considering my application.
+
+I bring 7 years of extensive .NET experience, encompassing:
+
+- Message brokers (primarily RabbitMQ)
+- .NET and .NET Core development
+- RESTful APIs
+- HTTP Microservices
+- Unit Testing
+- Design Patterns (with a strong preference for Singleton, Repository, Builder, and Prototype)
+
+I was particularly excited to see that your position involves Go (GoLang). Over the past year, I’ve dedicated significant time to learning and working with Go, especially during the first six months, where I immersed myself deeply in the language.
+
+I’d love for you to take a look at my personal projects based on Go. One is a blog built using the Go-HTMX-MongoDB stack, hosted on a Hetzner Ubuntu server. You can explore the GitHub repository at https://github.com/art3xias23/go-blog and see the live version at https://blog.pragmatino.xyz
+
+Additionally, I’ve developed a backup utility in Go, which you can find at https://github.com/art3xias23/go-data-backup
+
+Despite my 7 years of experience, I remain a passionate developer with an unquenchable thirst for knowledge. Over the past two years, I’ve consistently devoted 1-2 hours daily to improving my skills in various technologies such as Lisp, Go, and C, with plans to explore even more in the future.
+
+Finally, I want to express that this opportunity stands out as the best fit for me that I’ve encountered so far, aligning perfectly with my skills and aspirations.
+
+I would welcome the opportunity to discuss this further. Thank you for your time and consideration.
+

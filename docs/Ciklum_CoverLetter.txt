@@ -1,0 +1,19 @@
+Thank you for considering my application.
+
+I have been responsible for multiple applications with my current employer, where I’ve developed, enhanced, and managed their CI/CD pipelines. Additionally, I’ve created,  maintained these applications and ensured their smooth operation.
+
+I've dabbled in redis briefly, albeit my professional experience being mostly in RabbitMQ as a message broker.
+
+Whenever possible, I have championed the documentation of my projects using Atlassian. My passion for documenting and sharing knowledge led me to create a blog (blog.pragmatino.xyz) using Go, HTMX, and MongoDB, where I post about interesting findings and the technologies I explore.
+
+During the last 6 months I've been solely responsible for my team's first web project. The frontend was done in HTMX due to the lack of complex FE requirements. Despite that bein a new technology for me I had completely excelled in it in the matter of weeks.
+
+On the JavaScript side, two years ago, I spent three months completing the React Pluralsight Path to develop my firm's first client-facing website. Although the site was live and successful, it’s been some time since then. I thoroughly enjoyed working with React and wanted to deepen my expertise. However, my firm decided to transition to using HTMX (formerly known as Intercooler.js).
+
+Despite Angular not being the same as React I have all the resources I need to excell in it, the only precursor would be a supportive and progresss driven team.
+
+Despite my 7 years of experience, I remain a passionate developer with an unquenchable thirst for knowledge. Over the past two years, I’ve committed to spending at least 1-2 hours daily on improving my skills with other technologies such as Lisp, Go, and C, with plans to explore even more in the future.
+
+I want to assure you that, even if I haven’t had the privilege of working with a particular technology, I will do my utmost to learn and contribute to your team as quickly as possible.
+
+I would love the opportunity to discuss this further. Thank you for your time and consideration.
