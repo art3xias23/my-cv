@@ -7,4 +7,4 @@
 
 You can view the PDF below:
 
-[![PDF Preview](http://drive.google.com/uc?export=view&id=YOUR_FILE_ID)](http://drive.google.com/uc?export=view&id=YOUR_FILE_ID)
+[![PDF Preview](https://github.com/art3xias23/my-cv/blob/main/docs/MyCV.pdf)]
